@@ -1,9 +1,9 @@
 Tutorial Menjalankan Aplikasi Java
 
 
-1. BOpen Project Ke Netbeans Anda
-2. Jalan kan Xampp anda, dan buka localhost/phpmyadmin di web browser masing masing
-3. Klik Import dan pilih database yang sudah tersedia di .zip yang terdownload
+1. Open Project Ke Netbeans Anda
+2. Jalan kan Xampp anda, klik tombol start di mysql dan apache. lalu buka localhost/phpmyadmin di web browser masing masing
+3. Klik Import dan pilih database db_oop.sql di .zip yang sudah terdownload
 4. Jalankan aplikasi yang sudah terbuka di netbeans
 5. Aplikasi Siap Dipakai :)
 
